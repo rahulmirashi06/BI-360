@@ -1,5 +1,5 @@
-**Business Insights 360 — Power BI Dashboard
-**
+*Business Insights 360 — Power BI Dashboard*
+
 An interactive Business Intelligence solution for analyzing business performance across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
 📊 Project Overview
