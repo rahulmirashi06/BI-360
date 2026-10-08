@@ -1,8 +1,8 @@
-*Business Insights 360 — Power BI Dashboard*
+**Business Insights 360 — Power BI Dashboard**
 
 An interactive Business Intelligence solution for analyzing business performance across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
-📊 Project Overview
+**📊 Project Overview**
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
