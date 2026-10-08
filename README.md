@@ -14,7 +14,7 @@ The objective is to transform business data into meaningful KPIs, trends, perfor
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is
 
-🎯 Business Problem
+**🎯 Business Problem**
 
 Business performance data is often distributed across different functions, making it difficult for stakeholders to obtain a single, consistent view of overall performance.
 
@@ -36,7 +36,7 @@ Compare performance against previous-year and target benchmarks
 
 Investigate business performance through interactive filters and drill-down analysis
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 Build an interactive business intelligence dashboard
 
@@ -52,11 +52,9 @@ Present complex business data through intuitive visualizations
 
 Support data-driven business decision-making
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Tool / Technology
-
-Purpose
 
 Power BI
 
@@ -82,9 +80,9 @@ Excel
 
 Source/practice data used during project development
 
-📑 Report Views
+**📑 Report Views**
 
-1. Finance View
+**1. Finance View**
 
 Provides financial performance analysis using metrics such as:
 
@@ -110,7 +108,7 @@ Gross margin and operational expense analysis
 
 The view also supports comparison against benchmarks, previous-year performance, and targets.
 
-2. Sales View
+**2. Sales View**
 
 Provides detailed sales performance analysis across:
 
@@ -132,11 +130,11 @@ Net profit
 
 Interactive filters allow users to investigate sales performance from different business dimensions.
 
-3. Marketing View
+**3. Marketing View**
 
 Provides analysis of marketing-related business performance and enables stakeholders to evaluate performance across relevant business dimensions.
 
-4. Supply Chain View
+**4. Supply Chain View**
 
 Focuses on supply chain and forecast performance.
 
@@ -158,7 +156,7 @@ Supply chain risk classification
 
 The dashboard identifies risks such as Excess Inventory (EI) and Out of Stock (OOS).
 
-5. Executive View
+**5. Executive View**
 
 Provides a high-level summary of overall business performance for management and decision-makers.
 
@@ -178,7 +176,7 @@ Market-share trends
 
 Areas requiring attention
 
-6. Product Analysis
+**6. Product Analysis**
 
 The report provides product-level analysis covering:
 
@@ -196,7 +194,7 @@ Product/segment performance
 
 Performance matrix analysis
 
-7. Support / Information
+**7. Support / Information**
 
 The report also includes supporting and informational pages to help users navigate and understand the dashboard.
 
@@ -276,7 +274,7 @@ Forecast Analysis
 
 Supply chain analysis evaluates forecast accuracy and forecast errors at customer and product levels, helping identify inventory-related risks.
 
-💡 Business Questions Answered
+**💡 Business Questions Answered**
 
 Which regions contribute the most to revenue?
 
@@ -298,60 +296,40 @@ Where are excess inventory or out-of-stock risks present?
 
 Which business areas require management attention?
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
 
 The Resources folder contains visual previews of the Power BI report.
 
-Finance View
+**Finance View**
 
 ![Finance View](Resources/Finance_View.png)
 
-Sales View
+**Sales View**
 
 ![Sales View](Resources/Sales_View.png)
 
-Marketing View
+**Marketing View**
 
 ![Marketing View](Resources/Marketing_View.png)
 
-Supply Chain View
+**Supply Chain View**
 
 ![Supply Chain View](Resources/Supply_Chain_View.png)
 
-Executive View
+**Executive View**
 
 ![Executive View](Resources/Executive_View.png)
 
-Overall Dashboard
+**Overall Dashboard**
 
-![Overall Report](Resources/Overall_View.gif)
+![Overall Report](Resources/Overall.gif)
 
-Support / Information
+**Support / Information**
 
 ![Info View](Resources/Info.png)
 
-📂 Repository Structure
 
-BI-360/
-│
-├── README.md
-│
-├── Report/
-│   └── business_insights_360.pbix
-│
-└── Resources/
-    ├── Info.gif
-    ├── Finance_View.gif
-    ├── Sales_View.gif
-    ├── Marketing_View.gif
-    ├── Supply_Chain_View.gif
-    ├── Executive_View.gif
-    ├── Products_View.gif
-    └── Support_View.gif
-
-Resource filenames can be adjusted to match the files uploaded to the repository.
-
-🧩 Data Availability
+**🧩 Data Availability**
 
 This project was developed using practice/educational datasets.
 
@@ -359,7 +337,7 @@ The original Excel/source datasets are not included in this repository because t
 
 The repository therefore focuses on the Power BI report and visual documentation of the analysis.
 
-📁 Power BI Report
+**📁 Power BI Report**
 
 The complete Power BI report is located in:
 
@@ -367,7 +345,7 @@ Report/business_insights_360.pbix
 
 Because the Power BI file is approximately 232 MB, it should be managed using Git Large File Storage (Git LFS) rather than regular Git storage.
 
-🚀 Skills Demonstrated
+**🚀 Skills Demonstrated**
 
 Business Intelligence
 
@@ -401,13 +379,13 @@ Analytical Thinking
 
 Dashboard Design
 
-🎯 Project Outcome
+**🎯 Project Outcome**
 
 The final dashboard provides a centralized analytical view of business performance and enables stakeholders to move from high-level KPI monitoring to detailed analysis of customers, products, markets, and supply chain performance.
 
 The solution demonstrates how business data can be transformed into an interactive BI reporting environment that supports data-driven decision-making.
 
-👤 Project
+**👤 Project**
 
 Rahul mirashi
 
